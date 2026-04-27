@@ -1,0 +1,10 @@
+{
+  "name": "ts-flow-state",
+  "version": "1.0.0",
+  "description": "Ultra-lightweight type-safe reactive state store",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "author": "Emirhan Arslan",
+  "license": "MIT"
+}
