@@ -4,3 +4,5 @@
 // Iteration 2 for LoggerMiddleware
 
 // Iteration 3 for LoggerMiddleware
+
+// Iteration 4 for LoggerMiddleware
