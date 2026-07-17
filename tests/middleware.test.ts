@@ -8,3 +8,5 @@
 // Test assertions 4
 
 // Test assertions 5
+
+// Test assertions 6
